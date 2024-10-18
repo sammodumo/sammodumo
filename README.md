@@ -1,5 +1,5 @@
 👋 Hi, I’m @sammodumo
-I'm a passionate software developer and tester with a strong interest in Automation and Web Development. I love working with various technologies to build efficient and scalable applications.
+I'm a passionate QA tester with a strong interest in Automation and Web Development. I love working with various technologies to build efficient and scalable applications.
 
 👀 I’m interested in...
 Software Testing (Automation, Testing Frameworks)
